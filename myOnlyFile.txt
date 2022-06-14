@@ -4,3 +4,4 @@ Second master commit -> Master moved ahead
 Feature 1 commit
 Feature 2 commit
 Feature 2 commit
+Master is editing
